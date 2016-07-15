@@ -1,0 +1,15 @@
+{
+  "title": "DND Toolbar Button",
+  "name": "dndtoolbarbutton",
+  "version": "0.0.1",
+  "description": "Exposes Do Not Disturb setting as toolbar button",
+  "main": "index.js",
+  "author": "Marcii <marcii@cssu.in>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
