@@ -1,6 +1,7 @@
 {
   "title": "DND Toolbar Button",
   "name": "dndtoolbarbutton",
+  "id": "dndtoolbarbutton@cssu.in",
   "version": "0.0.1",
   "description": "Exposes Do Not Disturb setting as toolbar button",
   "main": "index.js",
